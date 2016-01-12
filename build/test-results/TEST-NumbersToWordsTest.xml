@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NumbersToWordsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-01-06T00:17:20" hostname="epicodus-36.local" time="0.001">
+  <properties/>
+  <testcase name="putItInWords_numberLessThan20ShouldReturnNumberInWords_fourteen" classname="NumbersToWordsTest" time="0.001"/>
+  <testcase name="putItInWords_numberBetween21And99ShouldReturnNumberInWords_seventyeight" classname="NumbersToWordsTest" time="0.0"/>
+  <testcase name="putItInWords_numberBetween110And999ShouldReturnNumberInWords_899" classname="NumbersToWordsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
